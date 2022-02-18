@@ -1,13 +1,18 @@
 ---
 title: Visiting Goa
 date: 2019-09-07T05:43:53.681Z
-tags: 'travel, india, goa'
+cover: https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fc/f0/goa.jpg?w=700&h=500&s=1
+tags: travel, india, goa
 ---
 Lorem ipsum dolor sit amet, mei in iracundia comprehensam, dicit phaedrum ea vis. Ei purto iusto quo, nonumy honestatis usu no. Eam at lorem audire eligendi. Modus iriure dignissim has in, sed ut liber dicit mediocritatem. Et sed harum graecis, vitae admodum mel et, iracundia referrentur an sea.
 
 At usu tale everti philosophia, consequat gloriatur voluptatum mel cu. Ea quo tota modus debet, ad vitae consetetur conclusionemque usu. Nam cu eripuit luptatum. At posse nemore persequeris per. Mea ut aeterno vivendo, quodsi aeterno dissentiunt te cum.
 
 Vim id expetenda instructior, eu dolorem temporibus vis. Delenit voluptua id eum, nobis accumsan complectitur pri ut. Eu est enim quaeque lobortis, et tale essent fabulas cum. Eu ornatus debitis nec, paulo dicam dicunt pro ea, ad eam posse nusquam. Ne quis interesset comprehensam has, ex aperiam verterem tincidunt eum. Modus vitae viderer vim cu, id nec ferri fastidii.
+
+
+
+![](https://images.hindustantimes.com/img/2021/09/20/550x309/75dbc9f2-1a08-11ec-8372-9724726ad21c_1632138665200.jpg)
 
 Ex legendos mandamus periculis vim, suscipit fabellas ne vim. At adhuc dicant mea, vix ea quidam voluptatum ullamcorper. Ex sea dicit theophrastus, ne sint offendit sit, wisi consequat sit ne. Sed labores utroque consectetuer no, an his inani expetenda ocurreret. Quaestio efficiantur mea ne.
 
