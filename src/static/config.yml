@@ -3,6 +3,7 @@ backend:
   branch: master
 media_folder: src/assets
 public_folder: /assets
+publish_mode: editorial_workflow
 collections:
   - name: "pages"
     label: "Pages"
